@@ -17,7 +17,6 @@ All third-party binaries, such as dcd-client and dcd-server are to be put into t
 * Linux / WSL2 on Windows
 
 * nix-shell [https://nixos.org/]
-* dcd-client and dcd-server [https://github.com/dlang-community/DCD/releases]
 
 ## License
 
