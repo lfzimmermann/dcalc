@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"luca"
+	],
+	"copyright": "Copyright © 2025, luca",
+	"description": "A minimal D application.",
+	"license": "Unlicense",
+	"name": "dcalc"
+}
