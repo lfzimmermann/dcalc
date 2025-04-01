@@ -5,8 +5,6 @@ in
 
 pkgs.mkShellNoCC {
   packages = with pkgs; [
-  	prettierd
-	luajitPackages.luarocks_bootstrap
 	dmd
 	dub
 	serve-d
